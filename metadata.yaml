@@ -1,0 +1,38 @@
+_repo: Prefaces-to-Terence-s-Comedies-and-Plautus-s-Comedies--1694-_29684
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Barnard, John
+    gutenberg_agent_id: '34084'
+    url: http://www.gutenberg.org/2009/agents/34084
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Echard, Lawrence
+    deathdate: 1730
+    gutenberg_agent_id: '34083'
+    url: http://www.gutenberg.org/2009/agents/34083
+description: ''
+gutenberg_issued: '2009-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29684'
+  lccn: '76450896'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theater -- Rome -- Early works to 1800'
+- !lcsh 'Terence -- Criticism and interpretation -- Early works to 1800'
+- !lcsh 'Latin drama (Comedy) -- Greek influences -- Early works to 1800'
+- !lcsh 'Latin drama (Comedy) -- History and criticism -- Early works to 1800'
+- !lcsh 'Greece -- In literature'
+- !lcsh 'Theater -- History -- To 500'
+- !lcc 'PA'
+- !lcsh 'Plautus, Titus Maccius -- Criticism and interpretation -- Early works to
+  1800'
+title: Prefaces to Terence's Comedies and Plautus's Comedies (1694)
+url: http://www.gutenberg.org/ebooks/29684
